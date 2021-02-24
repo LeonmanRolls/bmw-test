@@ -1,5 +1,5 @@
 {
      "/otpclearance/api/thirdparty/v1/test/applications/containers/S00I000M001OK/vehicles/WBAVB71470VOTP000/": "/",
-     "/otpclearance/api/": "/",
+     "/otpclearance/api/thirdparty/v1/test/applications/": "/",
      "/otpclearance/api/thirdparty/v1/test/applications/containers/": "/"
 }
