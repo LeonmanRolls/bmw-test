@@ -10,5 +10,28 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "otpccleaerance": {
+      "api": {
+        "thridparty": {
+            "v1": {
+                "test": {
+                    "applications": {
+                        "containers": {
+                            "S00I000M001OK": {
+                                "vehicles": {
+                                    "WBAVB71470VOTP000": {
+                                        "clearances": {
+                                            "clearanceId": "11111111-1111-1111-1111-111111111111"
+                                        }
+                                    } 
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+      }
   }
 }
